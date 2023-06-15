@@ -1,1 +1,2 @@
 information about login
+adding info for main
